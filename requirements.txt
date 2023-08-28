@@ -1,0 +1,2 @@
+playsound==1.2.2
+pygame==2.5.1
