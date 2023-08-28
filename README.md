@@ -23,7 +23,7 @@ These instructions will help you clone and set up the project on your local mach
 2. Navigate to the directory where you want to clone the repository.
 3. Run the following command:
 ```bash
-    git clone https://github.com/your-username/your-project-name.git
+    git clone https://github.com/your-username/your-project-name.git'''
 
 ### Now Follow the instructions given below
 
